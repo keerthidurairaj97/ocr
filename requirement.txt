@@ -2,3 +2,4 @@ pypdf
 streamlit
 pip install --upgrade azure-cognitiveservices-vision-computervision
 pip install pillow
+pip install azure-storage-blob
